@@ -263,17 +263,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OpenProjects\\Team22\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\DotNetAdapter.csproj",
+      "projectUniqueName": "C:\\OpenProjects\\Oasis\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\DotNetAdapter.csproj",
       "projectName": "DotNetAdapter",
-      "projectPath": "C:\\OpenProjects\\Team22\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\DotNetAdapter.csproj",
+      "projectPath": "C:\\OpenProjects\\Oasis\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\DotNetAdapter.csproj",
       "packagesPath": "C:\\Users\\Aakas\\.nuget\\packages\\",
-      "outputPath": "C:\\OpenProjects\\Team22\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\.obj\\",
+      "outputPath": "C:\\OpenProjects\\Oasis\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\.obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\OpenProjects\\Team22\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\NuGet.Config",
+        "C:\\OpenProjects\\Oasis\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\NuGet.Config",
         "C:\\Users\\Aakas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

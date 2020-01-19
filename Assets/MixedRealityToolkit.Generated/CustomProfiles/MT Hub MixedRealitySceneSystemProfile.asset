@@ -34,19 +34,19 @@ MonoBehaviour:
   - Name: Lobby
     Path: Assets/00/Scenes/Lobby.unity
     Included: 1
-    BuildIndex: 0
+    BuildIndex: 1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: ec0006201e6544465845e042cd126999, type: 3}
   - Name: Level1
     Path: Assets/00/Scenes/Level1.unity
     Included: 1
-    BuildIndex: 1
+    BuildIndex: 2
     Tag: Untagged
     Asset: {fileID: 102900000, guid: dae50332da10c4c5aa5b112d7c87ea33, type: 3}
   - Name: Level2
     Path: Assets/00/Scenes/Level2.unity
     Included: 1
-    BuildIndex: 2
+    BuildIndex: 3
     Tag: Untagged
     Asset: {fileID: 102900000, guid: fb9a001f14c9b7b47acbad83c3308bfc, type: 3}
   permittedLightingSceneComponentTypes:

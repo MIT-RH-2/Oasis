@@ -9,3 +9,14 @@ C:\OpenProjects\Team22\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\
 C:\OpenProjects\Team22\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll
 C:\OpenProjects\Team22\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csprojAssemblyReference.cache
 C:\OpenProjects\Team22\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csproj.CopyComplete
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\DotNetAdapter.deps.json
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll.meta
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csprojAssemblyReference.cache
+C:\OpenProjects\Oasis\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csproj.CopyComplete
